@@ -1,0 +1,8 @@
+Hello:
+  type: object
+  config:
+    fields:
+      message: 
+        type: "Bonjour"
+        description: "say just hello"
+        resolve: '@=resolver("sayHello")'

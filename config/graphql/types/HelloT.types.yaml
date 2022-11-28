@@ -1,0 +1,5 @@
+Bonjour:  
+  type: object
+  config:
+    fields:
+      message: "String"

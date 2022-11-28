@@ -1,0 +1,7 @@
+Query:
+  type: object
+  config:
+    description: "my hello query"
+  inherits: 
+    - Hello
+
